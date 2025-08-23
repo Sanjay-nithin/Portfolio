@@ -1,0 +1,29 @@
+.shiny-text {
+    color: transparent !important; /* gradient will show */
+    background: linear-gradient(
+      120deg,
+      rgba(98, 0, 234, 0.8) 0%,      /* start - dark violet */
+      rgba(66, 165, 245, 0.9) 50%,   /* highlight - neon blue */
+      rgba(98, 0, 234, 0.8) 100%     /* end - dark violet */
+    );
+    background-size: 200% 100%;
+    -webkit-background-clip: text;
+    background-clip: text;
+    display: inline-block;
+    font-weight: bold;
+    animation: shine 3s linear infinite;
+  }
+  
+  .shiny-text.disabled {
+    animation: none;
+  }
+  
+  @keyframes shine {
+    0% {
+      background-position: 200% center;
+    }
+    100% {
+      background-position: -200% center;
+    }
+  }
+  
