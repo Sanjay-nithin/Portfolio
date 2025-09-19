@@ -1,0 +1,138 @@
+[
+    {
+        "id": "about-1",
+        "section": "About",
+        "title": "About Me",
+        "content": "My name is Sanjay Nithin, and I am from Tiruppur, Tamil Nadu, with my native place being Salem.I am a passionate learner with strong interests in Artificial Intelligence, Machine Learning, Full Stack Development, and AI Agents. I have a solid foundation in programming languages such as C, Python, Java, JavaScript, SQL, HTML, and CSS. I have built projects using frameworks like React, Node.js, Flask, and Django. I also have a good understanding of data structures and algorithms and actively participate in coding competitions.",
+        "tags": ["about", "introduction", "education", "About", "Introduction", "Education"],
+        "source_url": "https://sanjay-nithin.netlify.app/",
+        "updated_at": "2025-08-22"
+    },
+    {
+        "id": "education-1",
+        "section": "Education",
+        "title": "Education",
+        "content": "Pursuing B.Tech in Artificial Intelligence and Data Science (2023–2027) at Sri Shakthi Institute of Engineering and Technology, with a CGPA of 8.2. Completed HSC in 2023 with 82% from Vivekananda Vidhyalaya Matric Higher Secondary School. Native place: Salem, Tamil Nadu.",
+        "tags": ["education", "college", "school", "Education", "College", "School"],
+        "source_url": "https://sanjay-nithin.netlify.app/",
+        "updated_at": "2025-08-22"
+    },  
+    {
+        "id": "skills-1",
+        "section": "Skills",   
+        "title": "My Skills",
+        "content": "I have a wide range of technical skills across programming, frameworks, databases, tools, and AI/ML. \n\nProgramming Languages: C, Python, Java, JavaScript, SQL, HTML, CSS. \nFrameworks & Libraries: React.js, Node.js, Flask, Django, Express.js, Redux. \nDatabases: MongoDB, PostgreSQL, MySQL, SQLite. \nDevOps & Deployment: Docker, Nginx, Apache, Render, Netlify, Vercel, AWS. \nAI & Data Science: Machine Learning, Deep Learning, Natural Language Processing, RAG, LLMs, AI Agents, TensorFlow, PyTorch, OpenCV, Transformers, LangChain. \nData Analysis & Visualization: NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, PowerBI. \nOther Tools: Git, GitHub, Linux, n8n.",
+        "tags": ["skills", "programming", "technologies", "frameworks", "databases", "devops", "ai", "ml"],
+        "source_url": "https://sanjay-nithin.netlify.app/",
+        "updated_at": "2025-08-22"
+    },
+    {
+        "id": "experience-aws",
+        "section": "Experience",
+        "title": "AWS Internship",
+        "content": "Gained hands-on experience with IAM, EC2, VPC, RDS, Route Table, S3, Load Balancing. Deployed a static website and a 3-tier architecture web app.",
+        "tags": ["AWS", "cloud", "internship", "aws"],
+        "source_url": "...",
+        "updated_at": "2025-08-22"
+    },
+    {
+        "id": "experience-datascience",
+        "section": "Experience",
+        "title": "Data Science Internship",
+        "content": "Worked on data collection, EDA, visualization, churn prediction, and deployment in Gradio. Learned importance of model validation beyond accuracy.",
+        "tags": ["data science", "internship", "ml", "eda"],
+        "source_url": "...",
+        "updated_at": "2025-08-22"
+    },
+    {
+        "id": "projects-1",
+        "section": "Projects",
+        "title": "Cipher Chase",
+        "content": "A web-based game conducted in our college event KALAM, based on cryptography concepts through interactive challenges. Players solve coding problems to unlock levels, learning about Morse code and decryption in a fun way.",
+        "tags": ["projects", "game", "web development", "Cipher Chase"],
+        "source_url": "https://sanjay-nithin.netlify.app/",
+        "updated_at": "2025-08-22"
+    },
+    {
+        "id": "projects-2",
+        "section": "Projects",
+        "title": "HostelFlow",
+        "content": "A full-stack hostel service booking system for laundry and room cleaning. Users can book, reschedule, or cancel services, while admins and service providers manage bookings via dedicated dashboards.",
+        "tags": ["projects", "full stack", "web development", "HostelFlow"],
+        "source_url": "https://sanjay-nithin.netlify.app/",
+        "updated_at": "2025-08-22"
+    },
+    {
+        "id": "projects-3",
+        "section": "Projects",
+        "title": "NutriGlow",
+        "content": "An AI-driven food recommendation and social platform. Users can share recipes, follow others, and get personalized healthy food suggestions based on diet and lifestyle.",
+        "tags": ["projects", "ai", "web development", "NutriGlow"],
+        "source_url": "https://sanjay-nithin.netlify.app/",
+        "updated_at": "2025-08-22"
+    },
+    {
+        "id": "projects-4",
+        "section": "Projects",
+        "title": "MythSnare",
+        "content": "Developed an AI-powered tool that detects misinformation by classifying inputs, verifying factual claims, and analyzing news content. Features include real-time fact-checking, automated news data gathering, and interactive explanations to help users identify misleading information.",
+        "tags": ["projects", "ai", "web development", "Mythsnare"],
+        "source_url": "https://sanjay-nithin.netlify.app/",
+        "updated_at": "2025-08-22"
+    },
+    {
+        "id": "certifications-1",
+        "section": "Certifications",
+        "title": "Data Science Intern Certificate",
+        "content": "Data Science Intern certificate: Provided by Atoms Private Ltd for completing their 1-month data science internship.",
+        "tags": ["certifications", "learning", "achievements", "data science", "internship"],
+        "source_url": "https://sanjay-nithin.netlify.app/",
+        "updated_at": "2025-08-22"
+    },
+    {
+        "id": "certifications-2",
+        "section": "Certifications",
+        "title": "AWS Intern Certificate",
+        "content": "AWS Intern certificate: Provided by Career Ladder for completing their 1-month AWS internship.",
+        "tags": ["certifications", "learning", "achievements", "aws", "internship"],
+        "source_url": "https://sanjay-nithin.netlify.app/",
+        "updated_at": "2025-08-22"
+    },
+    {
+        "id": "certifications-3",
+        "section": "Certifications",
+        "title": "Master the Data Structures and Algorithms",
+        "content": "Master the Data Structures and Algorithms: Provided by Andrew Neagoie from Udemy for completing his course.",
+        "tags": ["certifications", "learning", "achievements", "udemy", "data structures"],
+        "source_url": "https://sanjay-nithin.netlify.app/",
+        "updated_at": "2025-08-22"
+    },
+    {
+        "id": "certifications-4",
+        "section": "Certifications",
+        "title": "100 Days of Code - The Complete Python Pro Bootcamp",
+        "content": "100 Days of Code: The Complete Python Pro Bootcamp: Provided by Angela Yu from Udemy for completing her course.",
+        "tags": ["certifications", "learning", "achievements", "python", "udemy"],
+        "source_url": "https://sanjay-nithin.netlify.app/",
+        "updated_at": "2025-08-22"
+    },
+    {
+        "id": "certifications-5",
+        "section": "Certifications",
+        "title": "Youth Astronomy and Space Science Congress (YAASC)",
+        "content": "Youth Astronomy and Space Science Congress (YAASC): This certificate is from Tamil Nadu Astronomy and Science Society (TASS) for participating in their YAASC event and showcasing our research paper on unified theory, selected for further research by Dr. Mayilsamy Annadurai, former ISRO director. This is just for my hobby it has nothing to do with my academics but i enjoyed doing this",
+        "tags": ["certifications", "learning", "achievements", "unified theory", "research paper", "astronomy", "hobby"],
+        "source_url": "https://sanjay-nithin.netlify.app/",
+        "updated_at": "2025-08-22"
+    },
+    {
+        "id": "contact-1",
+        "section": "Contact",
+        "title": "Contact Me",
+        "content": "You can contact me with my email id, mobile number or give me a quick message by filling the form given in the contact section of my portfolio website",
+        "tags": ["contact", "email", "phone", "message"],
+        "source_url": "https://sanjay-nithin.netlify.app/",
+        "updated_at": "2025-08-22"
+    }
+
+]
